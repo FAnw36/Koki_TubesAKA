@@ -1,1 +1,7 @@
 # Koki_TubesAKA
+
+Restoran yang memiliki beberapa koki sering mengalami masalah dalam mengelola jumlah masakan yang dapat dimasak oleh koki dalam rentang waktu tertentu, setiap koki tentu memiliki keahlian yang berbeda sehingga akan mempengaruhi waktu memasak juga. Dalam hal ini, masalah ini dapat dihitung menggunakan matematika, yang mana jumlah masakan yang dapat dibuat oleh setiap koki dalam rentang waktu tertentu dimodelkan dalam bentuk matriks.
+
+Studi yang kami jalankan memiliki tujuan untuk menganalisis dan membandingkan dua metode algoritma, yaitu iteratif dan rekursif, masalah yang sudah dijelaskan sebelumnya akan diselesaikan dengan cara menghitung jumlah masakan yang bisa dihasilkan oleh masing-masing koki memakai perkalian dua buah matriks. Perbandingan antara algoritma iteratif dan rekursif dilakukan untuk mengetahui dan menilai efektivitas dan efisiensi kedua metode tersebut, dan juga untuk mengetahui algoritma mana yang memiliki kecepatan komputasi dan kompleksitas algoritma yang lebih baik.
+
+Hasil dari studi ini diharapkan kami bisa memahami bentuk implementasi dari mata kuliah Analisis Kompleksitas Algoritma yang telah dipelajari selama satu semester perkuliahan, diharapkan juga kami dapat menentukan algoritma yang lebih sesuai untuk diterapkan dalam masalah yang kami angkat ini, kemudian kami dapat mengetahui kelas kompleksitas algoritma yang dipakai dan juga dapat menganalisis kinerja kedua algoritma ini apabila mendapatkan input yang kecil maupun besar.
